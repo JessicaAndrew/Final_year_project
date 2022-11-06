@@ -71,3 +71,5 @@ References:
 [69] 	Art and M. Garrity , "how to plot an arrow given yaw/pitch/roll," The MathWorks, Inc., 25 May 2018. [Online]. Available: https://www.mathworks.com/matlabcentral/answers/232392-how-to-plot-an-arrow-given-yaw-pitch-roll. [Accessed 2 November 2022].
 [70] 	The MathWorks, Inc., "rotateframe," The MathWorks, Inc., [Online]. Available: https://www.mathworks.com/help/fusion/ref/quaternion.rotateframe.html. [Accessed 2 November 2022].
 [71] 	adnanmostafa and D. Asahi, "How to create a 3d XYZ line plot in matplotlib," Stack Exchange Inc, 14 September 2019. [Online]. Available: https://stackoverflow.com/questions/57932192/how-to-create-a-3d-xyz-line-plot-in-matplotlib. [Accessed 2 November 2022].
+[72] D. Q. Huynh, "Metrics for 3D rotations: Comparison and analysis," Journal of Mathematical Imaging and Vision, vol. 35, (2), pp. 155-164, 2009.
+[73] J. J. Kuffner, "Effective sampling and distance metrics for 3D rigid body path planning," in IEEE International Conference on Robotics and Automation, 2004. Proceedings. ICRA'04. 2004, 2004, .
